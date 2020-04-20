@@ -5,6 +5,7 @@ Just another hello--word repository
 
 The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
 
+test for request #1
 You’ll learn how to:
 
 Create and use a repository
@@ -83,7 +84,7 @@ In the editor, write a bit about yourself.
 Write a commit message that describes your changes.
 Click Commit changes button.
 commit
-
+test for request #2
 These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from master.
 
 
@@ -134,3 +135,6 @@ Take a look at your GitHub profile and you’ll see your new contribution square
 To learn more about the power of Pull Requests, we recommend reading the GitHub flow Guide. You might also visit GitHub Explore and get involved in an Open Source project.
 
 Tip: Check out our other Guides, YouTube Channel and On-Demand Training for more on how to get started with GitHub.
+
+test for request #3
+with love, alx
